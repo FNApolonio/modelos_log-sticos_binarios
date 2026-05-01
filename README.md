@@ -2,8 +2,6 @@
 
 > Análise estatística que demonstra como um modelo logístico construído com dados disponíveis **antes** do lançamento poderia ter previsto a falha catastrófica do ônibus espacial Challenger.
 
-![Sigmoide do modelo Challenger](outputs/challenger_sigmoide_linkedin.png)
-
 ---
 
 ## 📌 Sobre o projeto
