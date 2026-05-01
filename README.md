@@ -43,8 +43,6 @@ challenger-logistic-regression/
 │   └── visualization.py         ← módulo de plotagem da sigmoide
 ├── outputs/
 │   └── challenger_sigmoide_linkedin.png
-└── content/
-    └── linkedin_post.md         ← texto de divulgação
 ```
 
 ## ▶️ Como reproduzir
